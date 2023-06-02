@@ -76,7 +76,7 @@ We would like to thank the Arduino community for their valuable resources and th
 ## Contributors
 
 - [Emad](https://github.com/emad555)
-- [Hushki](https://github.com/hushki)
+- [Hushki](https://github.com/hushki610)
 
 Please feel free to contribute to this project by submitting pull requests or opening issues for improvements or bug fixes.
 
