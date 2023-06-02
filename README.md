@@ -60,7 +60,7 @@ The RC car project involved building both the car itself and the RC controller. 
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/rc-car-project.git`
+1. Clone the repository: `git clone https://github.com/emad555/rc_car.git`
 2. Upload the `car_code.ino` file to the ATmega328 microcontroller in the RC car.
 3. Upload the `controller_code.ino` file to the ATmega328 microcontroller in the RC controller.
 4. Assemble the RC car and RC controller according to the provided PCB designs.
@@ -71,15 +71,15 @@ Feel free to customize and modify the code and PCB designs to suit your specific
 
 ## Acknowledgements
 
-We would like to thank the Arduino community for their valuable resources and the Fritzing project for providing an excellent platform for designing the PCBs.
+We would like to thank the Arduino community for their valuable resources and the EasyEDA project for providing an excellent platform for designing the PCBs.
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
-- [Hushki](https://github.com/hushki)
+- [Emad](https://github.com/emad555)
+- [Hushki](https://github.com/hushki610)
 
 Please feel free to contribute to this project by submitting pull requests or opening issues for improvements or bug fixes.
 
 ## License
 
-This project
+This project is released under the [MIT License](LICENSE), which allows for free and open use, modification, and distribution of the project.
